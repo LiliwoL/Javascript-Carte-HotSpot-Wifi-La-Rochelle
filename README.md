@@ -1,6 +1,6 @@
 # Affichage de données open data sur une carte
 
-A partir d'un fichier de données (au format JSON) fourni, vous devez **afficher les informations sur une carte** en utilisant la librairie **[Leaflet](https://leafletjs.com/)**.
+À partir d'un fichier de données (au format JSON) fourni, vous devez **afficher les informations sur une carte** en utilisant la librairie **[Leaflet](https://leafletjs.com/)**.
 
 ![img.png](img.png)
 
@@ -26,8 +26,8 @@ A partir d'un fichier de données (au format JSON) fourni, vous devez **afficher
 ## Jeu de données en ligne
 
 - Depuis le portail OpenData de la Rochelle
-- Emplacement des stationnements handicapés sur la ville
-  https://opendata.agglo-larochelle.fr/visualisation/table/?id=d7ea2b60-33df-4ce3-ac8b-13344defc666
+- Emplacement des HotSpot Wifi de la ville
+  https://opendata.agglo-larochelle.fr/visualisation/map/?id=telecommunication_hotspot_wifi_ville_de_la_rochelle
 
 ---
 
@@ -64,7 +64,7 @@ https://leafletjs.com/examples/quick-start/
 ## Bonus
 
 > Utiliser des icônes personnalisées
-> https://thenounproject.com/search/icons/?iconspage=1&q=car%20handicap
+> https://thenounproject.com/search/icons/?iconspage=1&q=wifi
 
 > Afficher les données du JSON sous forme de tableau sous la carte.
 
